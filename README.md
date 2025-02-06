@@ -40,9 +40,9 @@ Analysis of Formula 1's impact on Barcelona hotel prices using booking.com data,
 - Web Scraping
 
 ## Authors
-- Viktoria Gagua
-- Alejandro Delgado Tello
-- Alex Malo
+- Viktoria Gagua <viktoria.gagua@bse.eu>
+- Alejandro Delgado Tello <alejandro.delgado@bse.eu>
+- Alex Malo <alex.malo@bse.eu>
 
 ## University
 Barcelona School of Economics, February 2025
