@@ -39,7 +39,7 @@ Analysis of Formula 1's impact on Barcelona hotel prices using booking.com data,
 - Statistical Analysis
 - Web Scraping
 
-- ## Important Disclaimer
+## Important Disclaimer
 The dataset used in this analysis was obtained through web scraping of Booking.com on February 1, 2025. All regression results and econometric analyses are based on this specific dataset. To reproduce our exact findings:
 
 1. Use the provided dataset files instead of running the scraping code
